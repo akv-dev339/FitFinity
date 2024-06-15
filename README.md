@@ -1,1 +1,1 @@
-# FitFinity Its a basic Gym site made using HTML and CSS
+# FitFinity Its a  Gym landing page made using HTML and CSS
